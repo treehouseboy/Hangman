@@ -1,4 +1,4 @@
-package com.badmans.hangman;
+package com.qa.hangman;
 
 import java.util.ArrayList;
 
